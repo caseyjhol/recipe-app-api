@@ -129,7 +129,6 @@ USE_TZ = True
 STATIC_URL = '/static/'
 MEDIA_URL = '/media/'
 
-# test comment
 STATIC_ROOT = '/vol/web/static'
 MEDIA_ROOT = '/vol/web/media'
 
